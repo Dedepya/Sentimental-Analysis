@@ -19,7 +19,7 @@ All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
 
 ## Live API
 * I have deployed it on Heroku with the help of flask, In case if you are interested you can check here. 
-[Sentiment Analysis]https://sentimentanalysiswithtext.herokuapp.com/)
+[Sentiment Analysis]    https://sentimentanalysiswithtext.herokuapp.com/
 
 ## Application Demo
 
